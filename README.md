@@ -18,9 +18,9 @@
 
 ### My Skills 🛠
 
-*Disclaimer: Skills that aren't on this github or my[https://github.com/czook|old student github], are used at my current or past jobs*
+*Disclaimer: Skills that aren't on this github or my [old student github](https://github.com/czook), are used at my current or past jobs*
 
-## Languages
+#### Languages
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 
-## Tools
+#### Tools
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
 </div>
 
-## Frameworks 
+#### Frameworks 
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
@@ -100,6 +100,30 @@
   <table>
 <div>
 
+#### My Old Student Account
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/czook">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czook&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Camdyn's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/czook">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/czook?cardType=github&theme=github" alt="Camdyn's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=czook&show_icons=true&hide=stars&hide_border=true" alt="Camdyn's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 ---
 
 <div align='center'>
