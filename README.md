@@ -2,6 +2,8 @@
 
 ### About Me
 
+*Hey all, I'm Camdyn Zook <3*
+
 <div align="center">
 <!-- TODO NEED PORTFOLIO
 <a href="https://jeffreychiu.dev/">
