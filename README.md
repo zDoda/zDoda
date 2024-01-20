@@ -2,9 +2,9 @@
 
 ### About Me
 
-*Hey all, I'm Camdyn Zook and I am a passionate Software Engineer that has a deep love for Python, C, and Go!*
-I am currently looking for a Backend Web Dev or Entry-Level Machine Learning roles. My prefrence is to work at a startup on a tight knit team where my impact can be seen!
-**Hiring? My email is open**
+*Hey all, I'm Camdyn Zook and I am a passionate Software Engineer that has a deep love for Python, C, and Go!*<br>
+I am currently looking for a Backend Web Dev or Entry-Level Machine Learning roles. My prefrence is to work at a startup on a tight knit team where my impact can be seen!<br>
+**Hiring? My email is open**<br>
 
 <div align="center">
 <!-- TODO NEED PORTFOLIO
