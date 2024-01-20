@@ -2,7 +2,7 @@
 
 ### About Me
 
-*Hey all, I'm Camdyn Zook <3*
+*Hey all, I'm Camdyn Zook and I am a passionate JR Software Engineer that is currently looking for a job*
 
 <div align="center">
 <!-- TODO NEED PORTFOLIO
