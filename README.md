@@ -3,9 +3,9 @@
 ### About Me
 
 <div align="center">
-<p style="font-style: italic;">Hey all, I'm Camdyn Zook and I am a passionate Software Engineer that has a deep love for Python, C, and Go!<\p><br>
+<p style="font-style: italic;">Hey all, I'm Camdyn Zook and I am a passionate Software Engineer that has a deep love for Python, C, and Go!</p><br>
 I am currently looking for a Backend Web Dev or Entry-Level Machine Learning roles. My prefrence is to work at a startup on a tight knit team where my impact can be seen!<br>
-<p style="font-weight: bold;">Hiring? My email is open<\p><br>
+<p style="font-weight: bold;">Hiring? My email is open</p><br>
 </div>
 
 <div align="center">
