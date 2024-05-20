@@ -3,17 +3,14 @@
 ### About Me
 
 <div align="center">
-<p style="font-style: italic;">Hey all, I'm Camdyn Zook and I am a passionate Software Engineer that has a deep love for Python, C, and Go!</p><br>
-I am currently looking for a Backend Web Dev or Entry-Level Machine Learning roles. My prefrence is to work at a startup on a tight knit team where my impact can be seen!<br>
+<p style="font-style: italic;">Hey all, I'm Camdyn Zook and I am a passionate Data Engineer that has a deep love for Python, C, and Go!</p><br>
 <p style="font-weight: bold;">Hiring? My email is open</p><br>
 </div>
 
 <div align="center">
-<!-- TODO NEED PORTFOLIO
-<a href="https://jeffreychiu.dev/">
+<a href="https://camdynzook.dev/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
--->
 <a href="https://www.linkedin.com/in/camdyn-zook">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
@@ -95,7 +92,6 @@ I am currently looking for a Backend Web Dev or Entry-Level Machine Learning rol
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/zDoda">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zDoda?cardType=github&theme=github" alt="Camdyn's GitHub Stats" /> -->
             <img src="https://github-readme-stats.vercel.app/api?username=zDoda&show_icons=true&hide=stars&hide_border=true" alt="Camdyn's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
@@ -120,7 +116,6 @@ I am currently looking for a Backend Web Dev or Entry-Level Machine Learning rol
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/czook">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/czook?cardType=github&theme=github" alt="Camdyn's GitHub Stats" /> -->
             <img src="https://github-readme-stats.vercel.app/api?username=czook&show_icons=true&hide=stars&hide_border=true" alt="Camdyn's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
